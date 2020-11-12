@@ -148,5 +148,5 @@
 <!-- Chart -->
 <div align="center">
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=guille0197&show_icons=true&locale=en" alt="guille0197" />
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guille0197&show_icons=true&locale=en&layout=compact" width="310px" alt="guille0197" /> 
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guille0197&show_icons=true&locale=en&layout=compact" width="315px" alt="guille0197" /> 
 </div>
