@@ -15,7 +15,7 @@
 
 <!-- Technology table -->
 ### Technologies
-<table>
+<table style="border: none">
     <thead>
         <tr align="center">
             <th>Languages</th>
