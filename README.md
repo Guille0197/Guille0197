@@ -4,11 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guille0197&label=Profile%20views&color=0e75b6&style=flat" alt="guille0197" /> </p>
 
 <!-- Title & Banner -->
-### Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,I am 
+### Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,I am 
 ![1](https://res.cloudinary.com/guillermo/image/upload/v1605152855/BannerGithubGuille0197_zgcgh4.png)
 
 <!-- Social Media-->
-[![Linkedin Badge](https://img.shields.io/badge/-Guillermo%20Navarro-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/guillermo-antonio-navarro/)](https://www.linkedin.com/in/guillermo-antonio-navarro//)
+[![Linkedin Badge](https://img.shields.io/badge/-Guillermo%20Navarro-blue?style=social&logo=Linkedin&logoColor=blue&link=https://bit.ly/368gxcL/)](https://www.linkedin.com/in/guillermo-antonio-navarro//)
 [![Twitter Badge](http://img.shields.io/badge/-@gan01_97-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/gan01_97)](https://twitter.com/gan01_97) 
 [![GitHub followers](https://img.shields.io/github/followers/VedantKhairnar?label=Follow&style=social)](https://github.com/Guille0197/?tab=follow)
 [![Instagram Badge](https://img.shields.io/badge/-gan01_97-blue?style=social&logo=Instagram&link=https://www.instagram.com/gan01_97/)](https://www.instagram.com/gan01_97/) 
@@ -146,8 +146,8 @@
 
 
 <!-- Chart -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guille0197&show_icons=true&locale=en&layout=compact" alt="guille0197" /></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=guille0197&show_icons=true&locale=en" alt="guille0197" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guille0197&show_icons=true&locale=en&layout=compact" alt="guille0197" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=guille0197&show_icons=true&locale=en" alt="guille0197" /></p>
 
 
 
