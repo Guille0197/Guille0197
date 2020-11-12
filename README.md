@@ -146,5 +146,7 @@
 
 
 <!-- Chart -->
-<div align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guille0197&show_icons=true&locale=en&layout=compact" alt="guille0197" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=guille0197&show_icons=true&locale=en" alt="guille0197" /></div>
+<div align="center">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guille0197&show_icons=true&locale=en&layout=compact" alt="guille0197" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=guille0197&show_icons=true&locale=en" widght="200px" alt="guille0197" />
+</div>
