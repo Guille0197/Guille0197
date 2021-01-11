@@ -1,7 +1,7 @@
 <!-- **Guille0197/Guille0197** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <!-- Count Visitors-->
-<span align="left"> <img src="https://komarev.com/ghpvc/?username=guille0197&label=Profile%20views&color=0e75b6&style=flat" alt="guille0197" /> </span>
+<!--<span align="left"> <img src="https://komarev.com/ghpvc/?username=guille0197&label=Profile%20views&color=0e75b6&style=flat" alt="guille0197" /> </span>-->
 
 <!-- Title & Banner -->
 ### Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,I am 
