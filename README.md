@@ -17,5 +17,5 @@
 
 <!-- Chart -->
 <div align="center">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guille0197&show_icons=true&locale=en&layout=compact" width="317px" alt="guille0197" /> 
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guille0197&show_icons=true&locale=en&layout=compact" width="50%" height="30%" alt="guille0197" /> 
 </div>
