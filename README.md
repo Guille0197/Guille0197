@@ -4,7 +4,7 @@
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=guille0197&label=Profile%20views&color=0e75b6&style=flat" alt="guille0197" /> </span>
 
 <!-- Title & Banner -->
-### Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,I am 
+### Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am 
 <!--![1](https://res.cloudinary.com/guillermo/image/upload/v1605152855/BannerGithubGuille0197_zgcgh4.png)-->
 
 <!-- Social Media-->
