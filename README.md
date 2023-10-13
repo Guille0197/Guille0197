@@ -1,7 +1,7 @@
 <!-- **Guille0197/Guille0197** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <!-- Title & Banner -->
-### Hi there <a href="https://www..com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"></a>💻
+# Hi there <a href="https://www..com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"></a>💻
 
 Full Stack developer dedicated to crafting amazing digital experiences in Frontend and Mobile.
 
@@ -15,14 +15,14 @@ Full Stack developer dedicated to crafting amazing digital experiences in Fronte
 
 🔗 &nbsp;**Connect with me**
 
-[![Gmail](https://img.shields.io/badge/Gmail-Guillermo_Navarro-808080?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:gnavarro0197@gmail.com) <br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Guillermo_Navarro-808080?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/guillermo-antonio-navarro) <br>
+[![Gmail](https://img.shields.io/badge/Gmail-Guillermo_Navarro-808080?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:gnavarro0197@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Guillermo_Navarro-808080?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/guillermo-antonio-navarro)
 [![Twitter](https://img.shields.io/badge/Twitter-Guillermo_Navarro-808080?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://twitter.com/gan01_97) <br>
 
-# ✨&nbsp; About Me
+## ✨&nbsp; About Me
  
 I'm a Full Stack developer with over +3 years of experience, specializing in building enterprise applications. 
-Throughout this time, I have been dedicated to creating cutting-edge hybrid mobile and web applications using the latest technologies. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+Throughout this time, I have been dedicated to creating cutting-edge hybrid mobile and web applications using the latest technologies. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 
 
 Feel free to explore my repositories to check out some of my projects! If you have any questions or suggestions, I'd be happy to hear from you.
@@ -34,7 +34,7 @@ You can find my [portfolio]() at this link, where you can get to know a bit more
 Thanks for visiting my profile! 😊
 
 
-# 🛠️ Technologies, Languages, and Tools
+## 🛠️ Technologies, Languages, and Tools
 ![HTML 5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26)
 ![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E)
