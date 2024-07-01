@@ -28,8 +28,8 @@ Throughout this time, I have been dedicated to creating cutting-edge hybrid mobi
 Feel free to explore my repositories to check out some of my projects! If you have any questions or suggestions, I'd be happy to hear from you.
 
 
-You can find my [portfolio]() at this link, where you can get to know a bit more about me 📲.
-
+You can find my [my portfolio](https://guille0197.github.io/portafolio/) at this link, where you can get to know a bit more about me 📲.
+For more in [landing](https://guille0197.github.io/landing-profile/)
 
 Thanks for visiting my profile! 😊
 
