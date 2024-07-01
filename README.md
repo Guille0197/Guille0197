@@ -9,7 +9,7 @@ Full Stack developer dedicated to crafting amazing digital experiences in Fronte
 - 🌱 Continuously learning new technologies and frameworks.
 - 💡 Exploring innovative and creative solutions for technical challenges.
 - 💬 Ask me about anything related to Javascript/Typescript/Node or Angular/React
-- 👨🏾‍💻 Read more about my projects at [my landing](https://guille0197.github.io/landing-profile/)
+- 👨🏾‍💻 Read more about my projects at [my portfolio]([https://guille0197.github.io/landing-profile/](https://guille0197.github.io/portafolio/))
 - ⚡  Feel free to reach out for collaborations, job opportunities, or just to say hello!
 
 
