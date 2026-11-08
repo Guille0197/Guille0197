@@ -21,7 +21,7 @@ Full Stack developer dedicated to crafting amazing digital experiences in Fronte
 
 ## ✨&nbsp; About Me
  
-I'm a Full Stack developer with over +3 years of experience, specializing in building enterprise applications. 
+I'm a Full Stack developer with over +6 years of experience, specializing in building enterprise applications. 
 Throughout this time, I have been dedicated to creating cutting-edge hybrid mobile and web applications using the latest technologies. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 
 
