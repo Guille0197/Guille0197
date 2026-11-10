@@ -9,7 +9,7 @@ Full Stack developer dedicated to crafting amazing digital experiences in Fronte
 - 🌱 Continuously learning new technologies and frameworks.
 - 💡 Exploring innovative and creative solutions for technical challenges.
 - 💬 Ask me about anything related to Javascript/Typescript/Node or Angular/React
-- 👨🏾‍💻 Read more about my projects at [my portfolio](https://guille0197.github.io/portafolio/)
+- 👨🏾‍💻 Read more about my projects at [my portfolio](https://gnavarro.dev)
 - ⚡  Feel free to reach out for collaborations, job opportunities, or just to say hello!
 
 
@@ -28,7 +28,7 @@ Throughout this time, I have been dedicated to creating cutting-edge hybrid mobi
 Feel free to explore my repositories to check out some of my projects! If you have any questions or suggestions, I'd be happy to hear from you.
 
 
-You can find my [my portfolio](https://guille0197.github.io/portafolio/) at this link, where you can get to know a bit more about me 📲.
+You can find my [my portfolio](https://gnavarro.dev) at this link, where you can get to know a bit more about me 📲.
 For more in [landing](https://guille0197.github.io/landing-profile/)
 
 Thanks for visiting my profile! 😊
@@ -97,7 +97,4 @@ Thanks for visiting my profile! 😊
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
-
-<!-- Chart -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guille0197&layout=compact)
 
